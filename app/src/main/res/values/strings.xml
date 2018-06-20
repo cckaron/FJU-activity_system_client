@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FJU Hacker</string>
+    <string name="update_button">前往系學會</string>
+    <string name="update_button2">前往活動公告</string>
+    <string name="login">登入</string>
+    <string name="auth_failed">登入失敗</string>
+    <string name="register">註冊</string>
+    <string name="email_account">電子信箱</string>
+    <string name="password">密碼</string>
+    <string name="full_name">姓名</string>
+    <string name="register_failed">註冊失敗</string>
+
+</resources>
